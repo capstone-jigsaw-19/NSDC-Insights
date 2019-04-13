@@ -15,6 +15,7 @@
 /*.Rcheck/
 
 # RStudio files
+.Rproj
 .Rproj.user/
 
 # produced vignettes
@@ -37,3 +38,4 @@ rsconnect/
 
 /data/raw/
 /data/processed/
+.Rproj.user
